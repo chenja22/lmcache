@@ -1,4 +1,4 @@
-# lmcache
+# LMCache Lab
 **LMCache Growth Initiatives Repository**:
 This repository contains growth and lead generation scripts developed for LMCache Lab. These tools are designed to automate data collection and enrichment tasks such as scraping websites for contact information, compiling prospect lists, and structuring lead reports.
 
